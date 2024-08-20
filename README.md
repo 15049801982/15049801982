@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @15049801982
-- 👀 I’m interested in saxphone
-- 🌱 I’m currently learning java language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :my tel number is 15049801982
+- 👀 
+- 🌱
+- 💞️
+- 📫 How to reach me :
 
 <!---
 15049801982/15049801982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
